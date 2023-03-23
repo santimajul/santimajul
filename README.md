@@ -3,7 +3,7 @@
    <img src='https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif' width='200px' height='150px'/>
  </div>
 
-### I am a proactive developer from Argentina who loves to develop new skills and learn new technologies.
+### I am a proactive developer who loves to develop new skills and learn new technologies.
 
 ### About me:
 
